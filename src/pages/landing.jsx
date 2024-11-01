@@ -53,7 +53,7 @@ const LandingPage = () => {
                     </AccordionContent>
                 </AccordionItem>
                 <AccordionItem value="item-2">
-                    <AccordionTrigger>Do I need an account to use the app??</AccordionTrigger>
+                    <AccordionTrigger>Do I need an account to use the app?</AccordionTrigger>
                     <AccordionContent>
                         Yes. Creating an account allows you to manage your URLs, view analytics and customize your short URLs.
                     </AccordionContent>
