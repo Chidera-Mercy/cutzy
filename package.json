@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "start": "serve -s dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -26,6 +27,7 @@
     "react-router-dom": "^6.27.0",
     "react-spinners": "^0.14.1",
     "recharts": "^2.13.2",
+    "serve": "^14.2.4",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7",
     "ua-parser-js": "^2.0.0-rc.1",
